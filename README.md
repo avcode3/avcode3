@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adithya
-- 👀 I’m interested in Softare Development 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning AI/RAG
 - 💞️ I’m looking to collaborate on AI/RAG
 - 📫 How to reach me adithya_development@protonmail.com 
