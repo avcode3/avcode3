@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adithya
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning AI/RAG
-- 💞️ I’m looking to collaborate on AI/RAG
+- 🌱 I’m currently learning AI/RAG/MCP
+- 💞️ I’m looking to collaborate on AI/RAG/MCP
 - 📫 How to reach me adithya_development@protonmail.com 
 
 <!---
